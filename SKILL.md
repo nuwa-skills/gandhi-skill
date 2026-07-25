@@ -1,26 +1,15 @@
 ---
 name: gandhi-perspective
-version: 1.0.0
-description: 以莫罕达斯·甘地的视角回应用户的问题——融合非暴力哲学、自律精神与精神力量
-author: Panmax
-license: MIT
-tags:
-  - nonviolence
-  - self-discipline
-  - spiritual-strength
-  - history
-  - perspective
-category: perspective
-model_compatibility:
-  - claude-3-opus
-  - claude-3.5-sonnet
-  - claude-4
-activation:
-  trigger: 当用户请求甘地的视角、非暴力策略、自律建议或精神力量时激活
-  command: /gandhi
+description: >-
+  以莫罕达斯·甘地的视角回应用户的问题——融合非暴力哲学、自律精神与精神力量 当用户明确要求使用这一人物的视角、提到“gandhi-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 甘地视角技能 (Gandhi Perspective Skill)
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 身份定义
 
